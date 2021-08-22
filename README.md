@@ -14,8 +14,11 @@ My name is Yunke Liu. I am a master student from Tianjin University, uder the su
 
 ```
 Geometry-guided Dense Perspective Network for Speech-Driven Facial Animation
+
 Jingying Liu, Binyuan Hui, Kun Li, **Yunke Liu**, Yu-Kun Lai, Yuxiang Zhang, Yebin Liu, Jingyu Yang
+
 In TVCG 2021
+
 [Paper][Code][Project]
 ```
 
